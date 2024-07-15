@@ -2,9 +2,9 @@
 
 int main()
 {
-    int (*p)[5] = NULL;//指向拥有5个整型数据的指针
+    int (*p)[5] = NULL;//鎸囧悜鎷ユ湁5涓暣鍨嬫暟鎹殑鎸囬拡
     int arr[5]={1,3,5,7,9};
-    p = &arr;//整个数组的首地址
+    p = &arr;//鏁翠釜鏁扮粍鐨勯鍦板潃
     printf("arr = %p\n",arr);
     printf("arr +1 = %p\n",arr+1);
     printf("&arr = %p\n",arr);
@@ -18,5 +18,6 @@ int main()
     printf("333\n");
     printf("444\n");
     printf("555\n");
+    printf("666\n");
     return 0;
 }
