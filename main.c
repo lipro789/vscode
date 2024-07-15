@@ -13,5 +13,6 @@ int main()
     printf("p +1 = %p\n",p+1);
     printf("*p  = %p\n",*p);
     printf("(*p) +1 = %p\n",(*p));
+    printf("111\n");
     return 0;
 }
