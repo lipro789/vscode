@@ -14,5 +14,6 @@ int main()
     printf("*p  = %p\n",*p);
     printf("(*p) +1 = %p\n",(*p));
     printf("111\n");
+     printf("444\n");
     return 0;
 }
