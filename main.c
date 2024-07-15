@@ -16,5 +16,6 @@ int main()
     printf("111\n");
     printf("222\n");
     printf("333\n");
+    printf("444\n");
     return 0;
 }
